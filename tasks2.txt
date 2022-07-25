@@ -1,0 +1,46 @@
+//Task1
+// You will be given an array of numbers. You have to sort
+// the odd numbers in ascending order while leaving the
+// even numbers at their original positions.
+
+//[7, 1]  =>  [1, 7]
+//[5, 8, 6, 3, 4]  =>  [3, 8, 6, 5, 4]
+//[9, 8, 7, 6, 5, 4, 3, 2, 1, 0]  =>  [1, 8, 3, 6, 5, 4, 7, 2, 9, 0]
+
+//Task2
+//Write a function that will return the count of distinct
+// case-insensitive alphabetic characters and numeric digits
+// that occur more than once in the input string. The input
+// string can be assumed to contain only alphabets
+// (both uppercase and lowercase) and numeric digits.
+
+//Task3
+//Given two arrays a and b write a function comp(a, b)
+// (orcompSame(a, b)) that checks whether the two arrays
+// have the "same" elements, with the same multiplicities
+// (the multiplicity of a member is the number of times it appears).
+// "Same" means, here, that the elements in b are the elements
+// in a squared, regardless of the order.
+
+//Task4
+//Create a method that will take an integer, square each digit,
+// and return an integer made up of those digits:
+//
+// 9119 -> 811181
+// 22638 -> 4436964
+
+//Task5
+//You probably know the "like" system from Facebook and other pages.
+// People can "like" blog posts, pictures or other items. We want to
+// create the text that should be displayed next to such an item.
+//Implement the function which takes an array containing the names
+// of people that like an item. It must return the display text as
+// shown in the examples:
+//[]                                -->  "no one likes this"
+//["Peter"]                         -->  "Peter likes this"
+//["Jacob", "Alex"]                 -->  "Jacob and Alex like this"
+//["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
+//["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
+
+
+
